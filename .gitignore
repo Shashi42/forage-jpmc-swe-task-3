@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/jpmc_env
 
 # testing
 /coverage
